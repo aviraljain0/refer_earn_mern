@@ -1,0 +1,23 @@
+# Ignore node_modules globally
+node_modules/
+
+# Backend env
+/backend/.env
+
+# Frontend env
+/frontend/.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dist files
+dist/
+build/
